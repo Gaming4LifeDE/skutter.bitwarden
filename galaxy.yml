@@ -43,7 +43,7 @@ tags: []
 dependencies: {}
 
 # The URL of the originating SCM repository
-repository: https://git2.skutter.de/SebastianKutter/skutter.bitwarden
+repository: https://github.com/Gaming4LifeDE/skutter.bitwarden
 
 # The URL to any online docs
 documentation: http://docs.example.com
